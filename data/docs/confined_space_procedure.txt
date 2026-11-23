@@ -1,0 +1,22 @@
+Confined Space Entry Procedure — Harborview Engineering
+
+Purpose
+This procedure defines how teams enter and work inside confined spaces at Harborview Engineering plants, including tanks, vessels, pits, and ducts.
+
+Definitions
+A confined space is an enclosed or partially enclosed space that is not designed for continuous human occupancy, has limited entry and exit, and may contain a hazardous atmosphere. Examples include storage tanks, process vessels, silos, and underground utility vaults.
+
+Entry requirements
+Before any entry, the entry supervisor must issue a confined space entry permit. The permit lists the space, the work to be done, the entrants, the attendant, and the rescue plan. No entry is permitted without a signed permit on file.
+
+Atmospheric testing
+The atmosphere must be tested before entry and monitored continuously while anyone is inside. Acceptable ranges: oxygen 19.5% to 23.5%, flammable gas below 10% of the lower explosive limit, and hydrogen sulphide below 10 parts per million. If any reading falls outside its range, entry is prohibited and the space must be ventilated and retested.
+
+Attendant duties
+A trained attendant must remain outside the space for the entire entry. The attendant keeps count of entrants, maintains communication, monitors conditions, and calls the rescue team if an entrant fails to respond. The attendant never enters the space to attempt a rescue.
+
+Rescue
+Rescue is performed only by the trained rescue team using retrieval systems. The entry permit must name the rescue team and its expected response time before work begins.
+
+Training
+Entrants, attendants, and entry supervisors must complete confined space training every two years and hold a current certificate on file.

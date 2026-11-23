@@ -1,0 +1,16 @@
+Past Proposal — Safety Audit, Northfield Power Station (2025)
+
+Scope
+Northfield Power Station asked for a safety audit of its confined space program, covering six tanks, four vessels, and the underground utility vaults. The audit included a document review, a site walkdown, interviews with twelve operators, and a review of the last three years of entry permits.
+
+Approach
+Our team of three senior engineers spent four days on site. We reviewed the entry permit process, observed two live entries, tested the rescue plan with a tabletop exercise, and sampled atmospheric testing records against the procedure.
+
+Findings
+We found the permit process sound but the rescue plan untested: the named rescue team had not run a drill in fourteen months. Atmospheric testing records were complete, but two monitors were past their calibration date. We recommended quarterly rescue drills and a calibration tracking log.
+
+Outcome
+Northfield accepted all nine recommendations. The rescue drill program started within a month, and the follow-up audit six months later found all nine closed. The client has since engaged us for two further audits.
+
+Team
+The engagement was led by a senior safety engineer with fifteen years of confined space experience, supported by a mechanical engineer and an electrical engineer.
